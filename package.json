@@ -1,0 +1,19 @@
+{
+  "name": "string-check-tt",
+  "version": "1.0.0",
+  "description": "is the string tt?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ammarjabakji/stringCheckTT.git"
+  },
+  "author": "Ammar Jabakji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ammarjabakji/stringCheckTT/issues"
+  },
+  "homepage": "https://github.com/ammarjabakji/stringCheckTT#readme"
+}
